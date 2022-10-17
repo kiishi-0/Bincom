@@ -149,7 +149,7 @@ var = findVariance(colorTotal)
 print(f"Variance of colors {var}")
 
 
-def randBinary ():
+def randBinary (): 
     ranNums = f""
     for x in range(4):
         num = randint(0, 1)
